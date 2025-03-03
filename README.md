@@ -1,1 +1,2 @@
-# Temperaturas-maximas
+# LSTM
+Modelagem extremos de temperaturas maximas
